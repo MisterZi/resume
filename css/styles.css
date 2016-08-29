@@ -1,0 +1,28 @@
+.photo {
+	max-width: 100%;
+	border: 1px solid #bbb;	
+	border-radius: 1%;
+}
+
+.buttons {
+	text-align: center;
+	margin-top: 10%;
+}
+
+.buffer-bottom {
+	text-align: center;
+}
+
+.bold-text {
+	font-weight: bold;
+}
+
+.experience {
+	margin-bottom: 20px;
+}
+.experience-logo {
+	margin-top: 20px;
+}
+body {
+	font-family: 'Roboto', cursive;
+}
